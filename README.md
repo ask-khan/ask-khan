@@ -24,7 +24,7 @@ Let me write quickly about myself without bragging:
 <p align="left">
 <a href="https://dev.to/askkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="askkhan" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmedsaboor26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedsaboor26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmedsaboorkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedsaboorkhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-saboor-31974146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedsaboorkhan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedsaboorkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedsaboorkhan" height="30" width="40" /></a>
 </p>
 
