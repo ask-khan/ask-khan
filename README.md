@@ -4,20 +4,21 @@
 
 Let me write quickly about myself without bragging:
 
-* 🥇 Computer Engineer by Degree and Software Developer by passion.
+* 🥇 Computer Engineer by Degree and Software Developer by Passion.
 * 🔮 Organize Web Front End with Angularjs & Angular ( Involed in migration ).
 * 🎨 Enjoy designing applications using MEAN Stack
-* 📱  Python Developer (Flask/ Django/ Torando / ERPNext ).
+* 📱  Python Developer (Flask/ Django/Tornado / ERPNext ).
 * 🥽 Enthusiast in Machine Learning and Artificial Intelligence
 * ✨ Full-time coder and part-time adventure seeker
-* 🤤 Can walk whole day
+* 🤤 Can walk the whole day
 * 🔑 Love Learning new technologies.
 
 <h2>Tech Stack 🛠️:</h2>
 
-* 👉 Javascript | Angularjs | Angular | node.js | SQL | Mongo
-* 👉 Django | Flask | Python | SQLite
-* 👉 Java | node.js
+* 👉 Javascript | Angularjs | Typescript | Angular
+* 👉 Django | Flask | Python
+* 👉 Java | Node.js
+* 👉 SQL | MongoDB | Postgresql | SQLite
 
 
 <h3 align="left">Connect with me:</h3>
